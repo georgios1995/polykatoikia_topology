@@ -1,0 +1,752 @@
+{
+    "vertices": {
+        "Vertex_0000": {
+            "u_length": 3.0,
+            "v_legnth": 1.965,
+            "x": 3.0,
+            "y": 0.9825,
+            "z": 2.5
+        },
+        "Vertex_0001": {
+            "u_length": 1.5,
+            "v_legnth": 1.965,
+            "x": 15.25,
+            "y": 2.9475,
+            "z": 2.5
+        },
+        "Vertex_0002": {
+            "u_length": 1.5,
+            "v_legnth": 1.965,
+            "x": 1.0,
+            "y": 4.9125,
+            "z": 2.5
+        },
+        "Vertex_0003": {
+            "u_length": 1.5,
+            "v_legnth": 1.965,
+            "x": 11.5,
+            "y": 8.8425,
+            "z": 2.5
+        },
+        "Vertex_0004": {
+            "u_length": 1.5,
+            "v_legnth": 1.9649999999999999,
+            "x": 6.25,
+            "y": 10.8075,
+            "z": 2.5
+        },
+        "Vertex_0005": {
+            "u_length": 2.0,
+            "v_legnth": 1.9650000000000007,
+            "x": 4.75,
+            "y": 2.9475,
+            "z": 2.5
+        },
+        "Vertex_0006": {
+            "u_length": 3.0,
+            "v_legnth": 1.9649999999999999,
+            "x": 11.5,
+            "y": 10.8075,
+            "z": 2.5
+        },
+        "Vertex_0007": {
+            "u_length": 2.0,
+            "v_legnth": 1.9650000000000007,
+            "x": 11.5,
+            "y": 0.9825,
+            "z": 2.5
+        },
+        "Vertex_0008": {
+            "u_length": 2.0,
+            "v_legnth": 1.9650000000000003,
+            "x": 3.0,
+            "y": 2.9475,
+            "z": 2.5
+        },
+        "Vertex_0009": {
+            "u_length": 1.5,
+            "v_legnth": 1.965,
+            "x": 4.75,
+            "y": 10.8075,
+            "z": 2.5
+        },
+        "Vertex_0010": {
+            "u_length": 2.0,
+            "v_legnth": 1.9649999999999999,
+            "x": 15.25,
+            "y": 0.9825,
+            "z": 2.5
+        },
+        "Vertex_0011": {
+            "u_length": 2.0,
+            "v_legnth": 1.9649999999999999,
+            "x": 13.75,
+            "y": 6.8775,
+            "z": 2.5
+        },
+        "Vertex_0012": {
+            "u_length": 2.0,
+            "v_legnth": 1.965,
+            "x": 13.75,
+            "y": 4.9125,
+            "z": 2.5
+        },
+        "Vertex_0013": {
+            "u_length": 1.5,
+            "v_legnth": 1.9649999999999999,
+            "x": 15.25,
+            "y": 4.9125,
+            "z": 2.5
+        },
+        "Vertex_0014": {
+            "u_length": 1.5,
+            "v_legnth": 1.965,
+            "x": 11.5,
+            "y": 2.9475,
+            "z": 2.5
+        },
+        "Vertex_0015": {
+            "u_length": 1.5,
+            "v_legnth": 1.9649999999999999,
+            "x": 8.5,
+            "y": 6.8775,
+            "z": 2.5
+        },
+        "Vertex_0016": {
+            "u_length": 1.5,
+            "v_legnth": 1.9650000000000007,
+            "x": 6.25,
+            "y": 0.9825,
+            "z": 2.5
+        },
+        "Vertex_0017": {
+            "u_length": 1.5,
+            "v_legnth": 1.9650000000000007,
+            "x": 3.0,
+            "y": 6.8775,
+            "z": 2.5
+        },
+        "Vertex_0018": {
+            "u_length": 1.5,
+            "v_legnth": 1.9650000000000007,
+            "x": 3.0,
+            "y": 10.8075,
+            "z": 2.5
+        },
+        "Vertex_0019": {
+            "u_length": 3.0,
+            "v_legnth": 1.9650000000000007,
+            "x": 1.0,
+            "y": 8.8425,
+            "z": 2.5
+        },
+        "Vertex_0020": {
+            "u_length": 2.0,
+            "v_legnth": 1.9649999999999999,
+            "x": 6.25,
+            "y": 8.8425,
+            "z": 2.5
+        },
+        "Vertex_0021": {
+            "u_length": 1.5,
+            "v_legnth": 1.9650000000000003,
+            "x": 8.5,
+            "y": 2.9475,
+            "z": 2.5
+        },
+        "Vertex_0022": {
+            "u_length": 3.0,
+            "v_legnth": 1.9650000000000007,
+            "x": 4.75,
+            "y": 8.8425,
+            "z": 2.5
+        },
+        "Vertex_0023": {
+            "u_length": 3.0,
+            "v_legnth": 1.9650000000000003,
+            "x": 1.0,
+            "y": 6.8775,
+            "z": 2.5
+        },
+        "Vertex_0024": {
+            "u_length": 1.5,
+            "v_legnth": 1.965,
+            "x": 1.0,
+            "y": 10.8075,
+            "z": 2.5
+        },
+        "Vertex_0025": {
+            "u_length": 1.5,
+            "v_legnth": 1.9650000000000003,
+            "x": 4.75,
+            "y": 6.8775,
+            "z": 2.5
+        },
+        "Vertex_0026": {
+            "u_length": 1.5,
+            "v_legnth": 1.9649999999999999,
+            "x": 13.75,
+            "y": 2.9475,
+            "z": 2.5
+        },
+        "Vertex_0027": {
+            "u_length": 3.0,
+            "v_legnth": 1.965,
+            "x": 8.5,
+            "y": 10.8075,
+            "z": 2.5
+        },
+        "Vertex_0028": {
+            "u_length": 1.5,
+            "v_legnth": 1.9649999999999999,
+            "x": 13.75,
+            "y": 8.8425,
+            "z": 2.5
+        },
+        "Vertex_0029": {
+            "u_length": 3.0,
+            "v_legnth": 1.965,
+            "x": 13.75,
+            "y": 0.9825,
+            "z": 2.5
+        },
+        "Vertex_0030": {
+            "u_length": 2.0,
+            "v_legnth": 1.9649999999999999,
+            "x": 15.25,
+            "y": 6.8775,
+            "z": 2.5
+        },
+        "Vertex_0031": {
+            "u_length": 2.0,
+            "v_legnth": 1.965,
+            "x": 1.0,
+            "y": 0.9825,
+            "z": 2.5
+        },
+        "Vertex_0032": {
+            "u_length": 1.5,
+            "v_legnth": 1.9649999999999999,
+            "x": 13.75,
+            "y": 10.8075,
+            "z": 2.5
+        },
+        "Vertex_0033": {
+            "u_length": 1.5,
+            "v_legnth": 1.9650000000000007,
+            "x": 6.25,
+            "y": 6.8775,
+            "z": 2.5
+        },
+        "Vertex_0034": {
+            "u_length": 3.0,
+            "v_legnth": 1.965,
+            "x": 8.5,
+            "y": 0.9825,
+            "z": 2.5
+        },
+        "Vertex_0035": {
+            "u_length": 2.0,
+            "v_legnth": 1.9650000000000003,
+            "x": 3.0,
+            "y": 8.8425,
+            "z": 2.5
+        },
+        "Vertex_0036": {
+            "u_length": 1.5,
+            "v_legnth": 1.9650000000000003,
+            "x": 3.0,
+            "y": 4.9125,
+            "z": 2.5
+        },
+        "Vertex_0037": {
+            "u_length": 3.0,
+            "v_legnth": 1.9649999999999999,
+            "x": 11.5,
+            "y": 4.9125,
+            "z": 2.5
+        },
+        "Vertex_0038": {
+            "u_length": 3.0,
+            "v_legnth": 1.9649999999999999,
+            "x": 15.25,
+            "y": 8.8425,
+            "z": 2.5
+        },
+        "Vertex_0039": {
+            "u_length": 1.5,
+            "v_legnth": 1.9649999999999999,
+            "x": 15.25,
+            "y": 10.8075,
+            "z": 2.5
+        },
+        "Vertex_0040": {
+            "u_length": 2.0,
+            "v_legnth": 1.965,
+            "x": 4.75,
+            "y": 4.9125,
+            "z": 2.5
+        },
+        "Vertex_0041": {
+            "u_length": 1.5,
+            "v_legnth": 1.9650000000000003,
+            "x": 4.75,
+            "y": 0.9825,
+            "z": 2.5
+        },
+        "Vertex_0042": {
+            "u_length": 1.5,
+            "v_legnth": 1.965,
+            "x": 6.25,
+            "y": 2.9475,
+            "z": 2.5
+        },
+        "Vertex_0043": {
+            "u_length": 1.5,
+            "v_legnth": 1.965,
+            "x": 1.0,
+            "y": 2.9475,
+            "z": 2.5
+        },
+        "Vertex_0044": {
+            "u_length": 3.0,
+            "v_legnth": 1.9649999999999999,
+            "x": 8.5,
+            "y": 8.8425,
+            "z": 2.5
+        },
+        "Vertex_0045": {
+            "u_length": 2.0,
+            "v_legnth": 1.965,
+            "x": 8.5,
+            "y": 4.9125,
+            "z": 2.5
+        },
+        "Vertex_0046": {
+            "u_length": 1.5,
+            "v_legnth": 1.9649999999999999,
+            "x": 11.5,
+            "y": 6.8775,
+            "z": 2.5
+        },
+        "Vertex_0047": {
+            "u_length": 3.0,
+            "v_legnth": 1.9650000000000003,
+            "x": 6.25,
+            "y": 4.9125,
+            "z": 2.5
+        }
+    },
+    "edges": {
+        "Edge_00": {
+            "relationship": "Direct",
+            "source": "Vertex_0000",
+            "target": "Vertex_0008"
+        },
+        "Edge_01": {
+            "relationship": "Direct",
+            "source": "Vertex_0000",
+            "target": "Vertex_0041"
+        },
+        "Edge_02": {
+            "relationship": "Direct",
+            "source": "Vertex_0031",
+            "target": "Vertex_0000"
+        },
+        "Edge_03": {
+            "relationship": "Direct",
+            "source": "Vertex_0026",
+            "target": "Vertex_0001"
+        },
+        "Edge_04": {
+            "relationship": "Direct",
+            "source": "Vertex_0001",
+            "target": "Vertex_0013"
+        },
+        "Edge_05": {
+            "relationship": "Direct",
+            "source": "Vertex_0010",
+            "target": "Vertex_0001"
+        },
+        "Edge_06": {
+            "relationship": "Direct",
+            "source": "Vertex_0002",
+            "target": "Vertex_0023"
+        },
+        "Edge_07": {
+            "relationship": "Direct",
+            "source": "Vertex_0043",
+            "target": "Vertex_0002"
+        },
+        "Edge_08": {
+            "relationship": "Direct",
+            "source": "Vertex_0002",
+            "target": "Vertex_0036"
+        },
+        "Edge_09": {
+            "relationship": "Direct",
+            "source": "Vertex_0003",
+            "target": "Vertex_0028"
+        },
+        "Edge_10": {
+            "relationship": "Direct",
+            "source": "Vertex_0046",
+            "target": "Vertex_0003"
+        },
+        "Edge_11": {
+            "relationship": "Direct",
+            "source": "Vertex_0044",
+            "target": "Vertex_0003"
+        },
+        "Edge_12": {
+            "relationship": "Direct",
+            "source": "Vertex_0003",
+            "target": "Vertex_0006"
+        },
+        "Edge_13": {
+            "relationship": "Direct",
+            "source": "Vertex_0009",
+            "target": "Vertex_0004"
+        },
+        "Edge_14": {
+            "relationship": "Direct",
+            "source": "Vertex_0004",
+            "target": "Vertex_0027"
+        },
+        "Edge_15": {
+            "relationship": "Direct",
+            "source": "Vertex_0020",
+            "target": "Vertex_0004"
+        },
+        "Edge_16": {
+            "relationship": "Direct",
+            "source": "Vertex_0005",
+            "target": "Vertex_0042"
+        },
+        "Edge_17": {
+            "relationship": "Direct",
+            "source": "Vertex_0005",
+            "target": "Vertex_0040"
+        },
+        "Edge_18": {
+            "relationship": "Direct",
+            "source": "Vertex_0008",
+            "target": "Vertex_0005"
+        },
+        "Edge_19": {
+            "relationship": "Direct",
+            "source": "Vertex_0041",
+            "target": "Vertex_0005"
+        },
+        "Edge_20": {
+            "relationship": "Direct",
+            "source": "Vertex_0006",
+            "target": "Vertex_0032"
+        },
+        "Edge_21": {
+            "relationship": "Direct",
+            "source": "Vertex_0027",
+            "target": "Vertex_0006"
+        },
+        "Edge_22": {
+            "relationship": "Direct",
+            "source": "Vertex_0007",
+            "target": "Vertex_0014"
+        },
+        "Edge_23": {
+            "relationship": "Direct",
+            "source": "Vertex_0034",
+            "target": "Vertex_0007"
+        },
+        "Edge_24": {
+            "relationship": "Direct",
+            "source": "Vertex_0007",
+            "target": "Vertex_0029"
+        },
+        "Edge_25": {
+            "relationship": "Direct",
+            "source": "Vertex_0043",
+            "target": "Vertex_0008"
+        },
+        "Edge_26": {
+            "relationship": "Direct",
+            "source": "Vertex_0008",
+            "target": "Vertex_0036"
+        },
+        "Edge_27": {
+            "relationship": "Direct",
+            "source": "Vertex_0018",
+            "target": "Vertex_0009"
+        },
+        "Edge_28": {
+            "relationship": "Direct",
+            "source": "Vertex_0022",
+            "target": "Vertex_0009"
+        },
+        "Edge_29": {
+            "relationship": "Direct",
+            "source": "Vertex_0029",
+            "target": "Vertex_0010"
+        },
+        "Edge_30": {
+            "relationship": "Direct",
+            "source": "Vertex_0012",
+            "target": "Vertex_0011"
+        },
+        "Edge_31": {
+            "relationship": "Direct",
+            "source": "Vertex_0011",
+            "target": "Vertex_0028"
+        },
+        "Edge_32": {
+            "relationship": "Direct",
+            "source": "Vertex_0011",
+            "target": "Vertex_0030"
+        },
+        "Edge_33": {
+            "relationship": "Direct",
+            "source": "Vertex_0046",
+            "target": "Vertex_0011"
+        },
+        "Edge_34": {
+            "relationship": "Direct",
+            "source": "Vertex_0037",
+            "target": "Vertex_0012"
+        },
+        "Edge_35": {
+            "relationship": "Direct",
+            "source": "Vertex_0026",
+            "target": "Vertex_0012"
+        },
+        "Edge_36": {
+            "relationship": "Direct",
+            "source": "Vertex_0012",
+            "target": "Vertex_0013"
+        },
+        "Edge_37": {
+            "relationship": "Direct",
+            "source": "Vertex_0013",
+            "target": "Vertex_0030"
+        },
+        "Edge_38": {
+            "relationship": "Direct",
+            "source": "Vertex_0014",
+            "target": "Vertex_0037"
+        },
+        "Edge_39": {
+            "relationship": "Direct",
+            "source": "Vertex_0014",
+            "target": "Vertex_0026"
+        },
+        "Edge_40": {
+            "relationship": "Direct",
+            "source": "Vertex_0021",
+            "target": "Vertex_0014"
+        },
+        "Edge_41": {
+            "relationship": "Direct",
+            "source": "Vertex_0045",
+            "target": "Vertex_0015"
+        },
+        "Edge_42": {
+            "relationship": "Direct",
+            "source": "Vertex_0033",
+            "target": "Vertex_0015"
+        },
+        "Edge_43": {
+            "relationship": "Direct",
+            "source": "Vertex_0015",
+            "target": "Vertex_0046"
+        },
+        "Edge_44": {
+            "relationship": "Direct",
+            "source": "Vertex_0015",
+            "target": "Vertex_0044"
+        },
+        "Edge_45": {
+            "relationship": "Direct",
+            "source": "Vertex_0016",
+            "target": "Vertex_0034"
+        },
+        "Edge_46": {
+            "relationship": "Direct",
+            "source": "Vertex_0016",
+            "target": "Vertex_0042"
+        },
+        "Edge_47": {
+            "relationship": "Direct",
+            "source": "Vertex_0041",
+            "target": "Vertex_0016"
+        },
+        "Edge_48": {
+            "relationship": "Direct",
+            "source": "Vertex_0023",
+            "target": "Vertex_0017"
+        },
+        "Edge_49": {
+            "relationship": "Direct",
+            "source": "Vertex_0017",
+            "target": "Vertex_0035"
+        },
+        "Edge_50": {
+            "relationship": "Direct",
+            "source": "Vertex_0036",
+            "target": "Vertex_0017"
+        },
+        "Edge_51": {
+            "relationship": "Direct",
+            "source": "Vertex_0017",
+            "target": "Vertex_0025"
+        },
+        "Edge_52": {
+            "relationship": "Direct",
+            "source": "Vertex_0035",
+            "target": "Vertex_0018"
+        },
+        "Edge_53": {
+            "relationship": "Direct",
+            "source": "Vertex_0024",
+            "target": "Vertex_0018"
+        },
+        "Edge_54": {
+            "relationship": "Direct",
+            "source": "Vertex_0023",
+            "target": "Vertex_0019"
+        },
+        "Edge_55": {
+            "relationship": "Direct",
+            "source": "Vertex_0019",
+            "target": "Vertex_0035"
+        },
+        "Edge_56": {
+            "relationship": "Direct",
+            "source": "Vertex_0019",
+            "target": "Vertex_0024"
+        },
+        "Edge_57": {
+            "relationship": "Direct",
+            "source": "Vertex_0033",
+            "target": "Vertex_0020"
+        },
+        "Edge_58": {
+            "relationship": "Direct",
+            "source": "Vertex_0020",
+            "target": "Vertex_0044"
+        },
+        "Edge_59": {
+            "relationship": "Direct",
+            "source": "Vertex_0022",
+            "target": "Vertex_0020"
+        },
+        "Edge_60": {
+            "relationship": "Direct",
+            "source": "Vertex_0034",
+            "target": "Vertex_0021"
+        },
+        "Edge_61": {
+            "relationship": "Direct",
+            "source": "Vertex_0021",
+            "target": "Vertex_0045"
+        },
+        "Edge_62": {
+            "relationship": "Direct",
+            "source": "Vertex_0042",
+            "target": "Vertex_0021"
+        },
+        "Edge_63": {
+            "relationship": "Direct",
+            "source": "Vertex_0035",
+            "target": "Vertex_0022"
+        },
+        "Edge_64": {
+            "relationship": "Direct",
+            "source": "Vertex_0025",
+            "target": "Vertex_0022"
+        },
+        "Edge_65": {
+            "relationship": "Direct",
+            "source": "Vertex_0040",
+            "target": "Vertex_0025"
+        },
+        "Edge_66": {
+            "relationship": "Direct",
+            "source": "Vertex_0025",
+            "target": "Vertex_0033"
+        },
+        "Edge_67": {
+            "relationship": "Direct",
+            "source": "Vertex_0029",
+            "target": "Vertex_0026"
+        },
+        "Edge_68": {
+            "relationship": "Direct",
+            "source": "Vertex_0044",
+            "target": "Vertex_0027"
+        },
+        "Edge_69": {
+            "relationship": "Direct",
+            "source": "Vertex_0028",
+            "target": "Vertex_0038"
+        },
+        "Edge_70": {
+            "relationship": "Direct",
+            "source": "Vertex_0028",
+            "target": "Vertex_0032"
+        },
+        "Edge_71": {
+            "relationship": "Direct",
+            "source": "Vertex_0030",
+            "target": "Vertex_0038"
+        },
+        "Edge_72": {
+            "relationship": "Direct",
+            "source": "Vertex_0031",
+            "target": "Vertex_0043"
+        },
+        "Edge_73": {
+            "relationship": "Direct",
+            "source": "Vertex_0032",
+            "target": "Vertex_0039"
+        },
+        "Edge_74": {
+            "relationship": "Direct",
+            "source": "Vertex_0047",
+            "target": "Vertex_0033"
+        },
+        "Edge_75": {
+            "relationship": "Direct",
+            "source": "Vertex_0036",
+            "target": "Vertex_0040"
+        },
+        "Edge_76": {
+            "relationship": "Direct",
+            "source": "Vertex_0045",
+            "target": "Vertex_0037"
+        },
+        "Edge_77": {
+            "relationship": "Direct",
+            "source": "Vertex_0037",
+            "target": "Vertex_0046"
+        },
+        "Edge_78": {
+            "relationship": "Direct",
+            "source": "Vertex_0038",
+            "target": "Vertex_0039"
+        },
+        "Edge_79": {
+            "relationship": "Direct",
+            "source": "Vertex_0040",
+            "target": "Vertex_0047"
+        },
+        "Edge_80": {
+            "relationship": "Direct",
+            "source": "Vertex_0042",
+            "target": "Vertex_0047"
+        },
+        "Edge_81": {
+            "relationship": "Direct",
+            "source": "Vertex_0047",
+            "target": "Vertex_0045"
+        }
+    }
+}
