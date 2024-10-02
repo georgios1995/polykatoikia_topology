@@ -3,43 +3,43 @@
         "Vertex_0000": {
             "apartment": 0,
             "type": "Space Cells",
-            "x": 9.925599,
-            "y": 1.487905,
+            "x": 7.081439,
+            "y": 4.900683,
             "z": 6.75
         },
         "Vertex_0001": {
             "apartment": 0,
-            "type": "Corridor",
-            "x": 11.43466,
-            "y": 3.420715,
+            "type": "Space Cells",
+            "x": 2.633595,
+            "y": 4.900683,
             "z": 6.75
         },
         "Vertex_0002": {
             "apartment": 0,
             "type": "Space Cells",
-            "x": 12.452433,
-            "y": 1.987838,
+            "x": 2.633594,
+            "y": 1.965,
             "z": 6.75
         },
         "Vertex_0003": {
             "apartment": 0,
             "type": "Space Cells",
-            "x": 14.871856,
-            "y": 1.960205,
+            "x": 17.634283,
+            "y": 4.900683,
             "z": 6.75
         },
         "Vertex_0004": {
-            "apartment": 0,
+            "apartment": 1,
             "type": "Space Cells",
-            "x": 7.081439,
-            "y": 1.965,
+            "x": 7.081441,
+            "y": 9.835,
             "z": 6.75
         },
         "Vertex_0005": {
-            "apartment": "none",
-            "type": "Staircase",
-            "x": 11.434655,
-            "y": 5.832027,
+            "apartment": 0,
+            "type": "Space Cells",
+            "x": 14.871856,
+            "y": 1.960205,
             "z": 6.75
         },
         "Vertex_0006": {
@@ -50,129 +50,129 @@
             "z": 6.75
         },
         "Vertex_0007": {
-            "apartment": 0,
-            "type": "Akalyptos",
-            "x": 12.452345,
-            "y": 0.5,
+            "apartment": 1,
+            "type": "Space Cells",
+            "x": 7.081439,
+            "y": 6.900683,
             "z": 6.75
         },
         "Vertex_0008": {
-            "apartment": 0,
-            "type": "Space Cells",
-            "x": 7.081439,
-            "y": 4.900683,
-            "z": 6.75
-        },
-        "Vertex_0009": {
-            "apartment": 1,
-            "type": "Space Cells",
-            "x": 14.881099,
-            "y": 6.900683,
-            "z": 6.75
-        },
-        "Vertex_0010": {
-            "apartment": 1,
-            "type": "Space Cells",
-            "x": 7.081439,
-            "y": 6.900683,
-            "z": 6.75
-        },
-        "Vertex_0011": {
-            "apartment": 0,
-            "type": "Space Cells",
-            "x": 2.633594,
-            "y": 1.965,
-            "z": 6.75
-        },
-        "Vertex_0012": {
             "apartment": 1,
             "type": "Corridor",
             "x": 11.434664,
             "y": 8.243339,
             "z": 6.75
         },
-        "Vertex_0013": {
-            "apartment": 0,
+        "Vertex_0009": {
+            "apartment": 1,
             "type": "Space Cells",
             "x": 2.633595,
-            "y": 4.900683,
+            "y": 6.900683,
             "z": 6.75
         },
-        "Vertex_0014": {
+        "Vertex_0010": {
             "apartment": 1,
             "type": "Space Cells",
             "x": 9.92572,
             "y": 10.249178,
             "z": 6.75
         },
-        "Vertex_0015": {
+        "Vertex_0011": {
             "apartment": 0,
             "type": "Space Cells",
-            "x": 17.634283,
-            "y": 4.900683,
+            "x": 9.925599,
+            "y": 1.487905,
             "z": 6.75
         },
-        "Vertex_0016": {
-            "apartment": 1,
-            "type": "Space Cells",
-            "x": 14.871457,
-            "y": 9.839343,
+        "Vertex_0012": {
+            "apartment": 0,
+            "type": "Corridor",
+            "x": 11.43466,
+            "y": 3.420715,
             "z": 6.75
         },
-        "Vertex_0017": {
-            "apartment": 1,
+        "Vertex_0013": {
+            "apartment": 0,
             "type": "Space Cells",
-            "x": 12.452524,
-            "y": 9.746953,
+            "x": 7.081439,
+            "y": 1.965,
             "z": 6.75
         },
-        "Vertex_0018": {
+        "Vertex_0014": {
+            "apartment": 0,
+            "type": "Space Cells",
+            "x": 12.452433,
+            "y": 1.987838,
+            "z": 6.75
+        },
+        "Vertex_0015": {
             "apartment": 1,
             "type": "Space Cells",
-            "x": 17.634283,
+            "x": 14.881099,
             "y": 6.900683,
             "z": 6.75
         },
-        "Vertex_0019": {
+        "Vertex_0016": {
             "apartment": 0,
             "type": "Space Cells",
             "x": 14.881099,
             "y": 4.900683,
             "z": 6.75
         },
-        "Vertex_0020": {
-            "apartment": 1,
-            "type": "Space Cells",
-            "x": 2.633595,
-            "y": 9.835,
+        "Vertex_0017": {
+            "apartment": "none",
+            "type": "Staircase",
+            "x": 11.434655,
+            "y": 5.832027,
             "z": 6.75
         },
-        "Vertex_0021": {
-            "apartment": 1,
+        "Vertex_0018": {
+            "apartment": 0,
             "type": "Akalyptos",
-            "x": 12.452521,
-            "y": 11.307788,
+            "x": 12.452345,
+            "y": 0.5,
             "z": 6.75
         },
-        "Vertex_0022": {
-            "apartment": 1,
-            "type": "Space Cells",
-            "x": 2.633595,
-            "y": 6.900683,
-            "z": 6.75
-        },
-        "Vertex_0023": {
+        "Vertex_0019": {
             "apartment": 1,
             "type": "Space Cells",
             "x": 17.634283,
             "y": 9.835,
             "z": 6.75
         },
-        "Vertex_0024": {
+        "Vertex_0020": {
             "apartment": 1,
             "type": "Space Cells",
-            "x": 7.081441,
+            "x": 17.634283,
+            "y": 6.900683,
+            "z": 6.75
+        },
+        "Vertex_0021": {
+            "apartment": 1,
+            "type": "Space Cells",
+            "x": 2.633595,
             "y": 9.835,
+            "z": 6.75
+        },
+        "Vertex_0022": {
+            "apartment": 1,
+            "type": "Space Cells",
+            "x": 12.452524,
+            "y": 9.746953,
+            "z": 6.75
+        },
+        "Vertex_0023": {
+            "apartment": 1,
+            "type": "Space Cells",
+            "x": 14.871457,
+            "y": 9.839343,
+            "z": 6.75
+        },
+        "Vertex_0024": {
+            "apartment": 1,
+            "type": "Akalyptos",
+            "x": 12.452521,
+            "y": 11.307788,
             "z": 6.75
         }
     },
@@ -180,137 +180,137 @@
         "Edge_00": {
             "relationship": "Direct",
             "source": "Vertex_0000",
-            "target": "Vertex_0007"
+            "target": "Vertex_0001"
         },
         "Edge_01": {
             "relationship": "Direct",
-            "source": "Vertex_0000",
-            "target": "Vertex_0001"
+            "source": "Vertex_0017",
+            "target": "Vertex_0000"
         },
         "Edge_02": {
             "relationship": "Direct",
-            "source": "Vertex_0000",
-            "target": "Vertex_0004"
+            "source": "Vertex_0013",
+            "target": "Vertex_0000"
         },
         "Edge_03": {
             "relationship": "Direct",
             "source": "Vertex_0002",
-            "target": "Vertex_0000"
+            "target": "Vertex_0001"
         },
         "Edge_04": {
             "relationship": "Direct",
-            "source": "Vertex_0001",
-            "target": "Vertex_0005"
+            "source": "Vertex_0013",
+            "target": "Vertex_0002"
         },
         "Edge_05": {
             "relationship": "Direct",
-            "source": "Vertex_0001",
-            "target": "Vertex_0004"
+            "source": "Vertex_0006",
+            "target": "Vertex_0003"
         },
         "Edge_06": {
             "relationship": "Direct",
-            "source": "Vertex_0002",
-            "target": "Vertex_0001"
+            "source": "Vertex_0016",
+            "target": "Vertex_0003"
         },
         "Edge_07": {
             "relationship": "Direct",
-            "source": "Vertex_0001",
-            "target": "Vertex_0003"
+            "source": "Vertex_0004",
+            "target": "Vertex_0021"
         },
         "Edge_08": {
             "relationship": "Direct",
-            "source": "Vertex_0002",
-            "target": "Vertex_0007"
+            "source": "Vertex_0007",
+            "target": "Vertex_0004"
         },
         "Edge_09": {
             "relationship": "Direct",
-            "source": "Vertex_0002",
-            "target": "Vertex_0003"
+            "source": "Vertex_0008",
+            "target": "Vertex_0004"
         },
         "Edge_10": {
             "relationship": "Direct",
-            "source": "Vertex_0003",
-            "target": "Vertex_0007"
+            "source": "Vertex_0004",
+            "target": "Vertex_0010"
         },
         "Edge_11": {
             "relationship": "Direct",
-            "source": "Vertex_0003",
+            "source": "Vertex_0005",
             "target": "Vertex_0006"
         },
         "Edge_12": {
             "relationship": "Direct",
-            "source": "Vertex_0003",
-            "target": "Vertex_0005"
+            "source": "Vertex_0005",
+            "target": "Vertex_0018"
         },
         "Edge_13": {
             "relationship": "Direct",
-            "source": "Vertex_0003",
-            "target": "Vertex_0019"
+            "source": "Vertex_0014",
+            "target": "Vertex_0005"
         },
         "Edge_14": {
             "relationship": "Direct",
-            "source": "Vertex_0004",
-            "target": "Vertex_0008"
+            "source": "Vertex_0005",
+            "target": "Vertex_0017"
         },
         "Edge_15": {
             "relationship": "Direct",
-            "source": "Vertex_0004",
+            "source": "Vertex_0012",
             "target": "Vertex_0005"
         },
         "Edge_16": {
             "relationship": "Direct",
-            "source": "Vertex_0004",
-            "target": "Vertex_0011"
+            "source": "Vertex_0005",
+            "target": "Vertex_0016"
         },
         "Edge_17": {
             "relationship": "Direct",
-            "source": "Vertex_0005",
-            "target": "Vertex_0010"
+            "source": "Vertex_0017",
+            "target": "Vertex_0007"
         },
         "Edge_18": {
             "relationship": "Direct",
-            "source": "Vertex_0005",
+            "source": "Vertex_0007",
             "target": "Vertex_0008"
         },
         "Edge_19": {
             "relationship": "Direct",
-            "source": "Vertex_0005",
-            "target": "Vertex_0012"
+            "source": "Vertex_0007",
+            "target": "Vertex_0009"
         },
         "Edge_20": {
             "relationship": "Direct",
-            "source": "Vertex_0005",
-            "target": "Vertex_0019"
+            "source": "Vertex_0017",
+            "target": "Vertex_0008"
         },
         "Edge_21": {
             "relationship": "Direct",
-            "source": "Vertex_0005",
-            "target": "Vertex_0009"
+            "source": "Vertex_0008",
+            "target": "Vertex_0010"
         },
         "Edge_22": {
             "relationship": "Direct",
-            "source": "Vertex_0006",
-            "target": "Vertex_0015"
+            "source": "Vertex_0008",
+            "target": "Vertex_0022"
         },
         "Edge_23": {
             "relationship": "Direct",
             "source": "Vertex_0008",
-            "target": "Vertex_0013"
+            "target": "Vertex_0015"
         },
         "Edge_24": {
             "relationship": "Direct",
-            "source": "Vertex_0012",
-            "target": "Vertex_0009"
+            "source": "Vertex_0008",
+            "target": "Vertex_0023"
         },
         "Edge_25": {
             "relationship": "Direct",
             "source": "Vertex_0009",
-            "target": "Vertex_0016"
+            "target": "Vertex_0021"
         },
         "Edge_26": {
             "relationship": "Direct",
-            "source": "Vertex_0009",
-            "target": "Vertex_0018"
+            "source": "Vertex_0010",
+            "target": "Vertex_0024"
         },
         "Edge_27": {
             "relationship": "Direct",
@@ -319,62 +319,62 @@
         },
         "Edge_28": {
             "relationship": "Direct",
-            "source": "Vertex_0010",
-            "target": "Vertex_0012"
+            "source": "Vertex_0011",
+            "target": "Vertex_0018"
         },
         "Edge_29": {
             "relationship": "Direct",
-            "source": "Vertex_0010",
-            "target": "Vertex_0024"
+            "source": "Vertex_0014",
+            "target": "Vertex_0011"
         },
         "Edge_30": {
             "relationship": "Direct",
             "source": "Vertex_0011",
-            "target": "Vertex_0013"
+            "target": "Vertex_0012"
         },
         "Edge_31": {
             "relationship": "Direct",
-            "source": "Vertex_0012",
-            "target": "Vertex_0017"
+            "source": "Vertex_0011",
+            "target": "Vertex_0013"
         },
         "Edge_32": {
             "relationship": "Direct",
-            "source": "Vertex_0012",
-            "target": "Vertex_0024"
+            "source": "Vertex_0014",
+            "target": "Vertex_0012"
         },
         "Edge_33": {
             "relationship": "Direct",
             "source": "Vertex_0012",
-            "target": "Vertex_0016"
+            "target": "Vertex_0017"
         },
         "Edge_34": {
             "relationship": "Direct",
             "source": "Vertex_0012",
-            "target": "Vertex_0014"
+            "target": "Vertex_0013"
         },
         "Edge_35": {
             "relationship": "Direct",
-            "source": "Vertex_0014",
+            "source": "Vertex_0013",
             "target": "Vertex_0017"
         },
         "Edge_36": {
             "relationship": "Direct",
             "source": "Vertex_0014",
-            "target": "Vertex_0021"
+            "target": "Vertex_0018"
         },
         "Edge_37": {
             "relationship": "Direct",
-            "source": "Vertex_0024",
-            "target": "Vertex_0014"
+            "source": "Vertex_0017",
+            "target": "Vertex_0015"
         },
         "Edge_38": {
             "relationship": "Direct",
-            "source": "Vertex_0019",
-            "target": "Vertex_0015"
+            "source": "Vertex_0015",
+            "target": "Vertex_0020"
         },
         "Edge_39": {
             "relationship": "Direct",
-            "source": "Vertex_0016",
+            "source": "Vertex_0015",
             "target": "Vertex_0023"
         },
         "Edge_40": {
@@ -384,28 +384,28 @@
         },
         "Edge_41": {
             "relationship": "Direct",
-            "source": "Vertex_0016",
-            "target": "Vertex_0021"
+            "source": "Vertex_0020",
+            "target": "Vertex_0019"
         },
         "Edge_42": {
             "relationship": "Direct",
-            "source": "Vertex_0017",
-            "target": "Vertex_0021"
+            "source": "Vertex_0023",
+            "target": "Vertex_0019"
         },
         "Edge_43": {
             "relationship": "Direct",
-            "source": "Vertex_0018",
-            "target": "Vertex_0023"
+            "source": "Vertex_0022",
+            "target": "Vertex_0024"
         },
         "Edge_44": {
             "relationship": "Direct",
             "source": "Vertex_0022",
-            "target": "Vertex_0020"
+            "target": "Vertex_0023"
         },
         "Edge_45": {
             "relationship": "Direct",
-            "source": "Vertex_0024",
-            "target": "Vertex_0020"
+            "source": "Vertex_0023",
+            "target": "Vertex_0024"
         }
     }
 }
