@@ -10,4 +10,5 @@ By applying graph theory, architectural spaces are conceptualized as nodes, and 
 The developed tool assists architects in rapidly gaining a comprehensive understanding of potential layouts by incorporating critical parameters such as daylight into the early stages of design. This integration enhances decision-making in the design process, leading to more informed and efficient architectural solutions.
 
 ALL TEH FILES IN THE WIP FOLDER IS STILL UNDER DEVELOPMENT.
-A DETAILS README FILE IS IN PROGRESS.
+
+A DETAILED README FILE IS IN PROGRESS.
